@@ -1,0 +1,6 @@
+{
+    "chosenEnvironment": "dev",
+    "environments": {
+        "dev": "/config/config-dev.json"
+    }
+}

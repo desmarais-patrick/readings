@@ -1,0 +1,6 @@
+{
+    "templates": [
+        "^template_general_v01\\.json$"
+    ],
+    "readings": "^readings_[0-9]{4}-[0-9]{2}-[0-9]{2}\\.json$"
+}

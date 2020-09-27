@@ -1,0 +1,104 @@
+{
+    "name": "general_v01",
+    "title": "General v01",
+    "template": {
+        "type": "TYPE_HERE",
+        "title": "REQUIRED_TITLE_HERE",
+        "description": "OPTIONAL_DESCRIPTION_HERE",
+        "url": "OPTIONAL_URL_HERE",
+        "status": "OPTIONAL_STATUS_HERE"
+    },
+    "examples": [
+        {
+            "type": "book",
+            "title": "The Design of Everyday Things by Don Norman",
+            "description": "UX design, human-computer interaction",
+            "status": "first-read-in-progress"
+        },
+        {
+            "type": "article",
+            "title": "Magic Ink by Brett Victor",
+            "description": "UX/UI design",
+            "url": "http://worrydream.com/MagicInk/",
+            "status": "first-read-completed"
+        }
+    ],
+    "reference": {
+        "type": [
+            {
+                "name": "book",
+                "title": {
+                    "big": "Book",
+                    "small": "book"
+                },
+                "icon": "📖"
+            },
+            {
+                "name": "article",
+                "title": {
+                    "big": "Article",
+                    "small": "article"
+                },
+                "icon": "🔗"
+            }
+        ],
+        "status": [
+            {
+                "name": "",
+                "title": {
+                    "big": "Undefined",
+                    "small": ""
+                },
+                "icon": ""
+            },
+            {
+                "name": "ready",
+                "title": {
+                    "big": "Not started",
+                    "small": "ready"
+                },
+                "icon": "0️⃣"
+            },
+            {
+                "name": "first-read-in-progress",
+                "title": {
+                    "big": "First read in progress",
+                    "small": "first read"
+                },
+                "icon": "1️⃣"
+            },
+            {
+                "name": "first-read-completed",
+                "title": {
+                    "big": "First read completed",
+                    "small": "read"
+                },
+                "icon": "2️⃣"
+            },
+            {
+                "name": "second-read-in-progress",
+                "title": {
+                    "big": "Second read in progress",
+                    "small": "second read"
+                },
+                "icon": "3️⃣"
+            },
+            {
+                "name": "second-read-completed",
+                "title": {
+                    "big": "Second read completed",
+                    "small": "read twice"
+                },
+                "icon": "4️⃣"
+            },
+            {
+                "name": "many-read-completed",
+                "title": {
+                    "big": "Many read completed",
+                    "small": "read"
+                },
+                "icon": "*️⃣"
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "type": "book",
+        "title": "The Design of Everyday Things by Don Norman",
+        "description": "UX design, human-computer interaction",
+        "status": "first-read-in-progress"
+    },
+    {
+        "type": "article",
+        "title": "Magic Ink by Brett Victor",
+        "description": "UX/UI design",
+        "url": "http://worrydream.com/MagicInk/",
+        "status": "first-read-completed"
+    }
+]
