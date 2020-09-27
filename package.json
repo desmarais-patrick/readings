@@ -1,0 +1,20 @@
+{
+  "name": "readings",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmarais-patrick/readings.git"
+  },
+  "author": "Patrick Desmarais (desmarais-patrick)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmarais-patrick/readings/issues"
+  },
+  "homepage": "https://github.com/desmarais-patrick/readings#readme"
+}
